@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "picture": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg?w=580",
+    "name": "Tonny Khan",
+    "experience": 30,
+    "num_recipes": 50,
+    "likes": 4000,
+    "description": "An executive chef is a person who is in charge of the kitchen of a restaurant, hotel, or other food service establishment in Bangladesh. They are responsible for creating menus, developing new recipes, managing and training kitchen staff, overseeing food preparation, ordering and managing food inventory, ensuring food safety and sanitation standards are met, and collaborating with other staff members to ensure smooth operation of the establishment. As an executive chef, Tonny Khan would be expected to have extensive culinary training and experience, as well as excellent leadership and management skills..",
+    "recipes": [
+      {
+        "recipe_id": "1",
+        "name": "Bengali Bhuna Chicken",
+        "info": "Bengali Bhuna Chicken is a popular chicken dish in Bangladesh and the Indian subcontinent. The word bhuna refers to the cooking process, which involves frying the spices in oil until they release their flavors and the oil separates from the spices. ",
+        "ingredients": "chicken, onion, Turmeric powder, garlic, ginger, tomato, salt",
+        "cooking_method": "1. Heat oil in a pan and fry the onion until golden brown. \n2. Add ginger and garlic, and cook for a minute. \n3. Add the spices and fry for a few seconds until fragrant. \n4. Add the chicken and cook until the meat is seared on all sides. \n5. Add tomatoes and salt, cover the pan, and let cook until the chicken is tender. \n6. Garnish with chopped coriander and serve hot with rice.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": "2",
+        "name": "Chapli Kebab",
+        "info": "Chapli Kebab is a popular street food in Pakistan, particularly in the Khyber Pakhtunkhwa province. The dish is essentially a minced beef patty that is flavored with a variety of spices and cooked until crispy on the outside and juicy on the inside. The kebab is typically served with naan bread, yogurt sauce, and sliced onions.",
+        "ingredients": "minced beef , Onion, coriander, cumin, paprika, chili flakes",
+        "cooking_method": "1. Mix all the ingredients in a large bowl until well combined. \n2. Form the mixture into flat, round patties. \n3. Heat oil in a pan and fry the patties on both sides until cooked through. \n4. Serve hot with mint chutney and naan bread.",
+        "rating": 4.6
+      },
+      {
+        "recipe_id": "3",
+        "name": "Chingri Malai Curry",
+        "info": "Chingri Malai Curry is a traditional Bengali dish made with prawns, coconut milk, and spices. It is a creamy and flavorful dish that is perfect for special occasions.",
+        "ingredients": "Prawns , Coconut milk , Onion, Ginger, Garlic",
+        "cooking_method": "1. Clean and devein the prawns. 2. Fry the onion, ginger, and garlic in oil. 3. Add the prawns to the pan and fry until they turn pink. 4. Add the coconut milk, salt, and other spices. 5. Simmer for a few minutes. 6. Serve hot with steamed rice.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "picture": "https://gumlet.assettype.com/bdnews24-english%2Fimport%2Fmedia%2F2017%2F05%2F06%2Ftommy_miah.jpg?auto=format%2Ccompress&fmt=webp&format=webp&w=732",
+    "name": "Tommy Miah",
+    "experience": 25,
+    "num_recipes": 200,
+    "likes": 5500,
+    "description": "Tommy Miah is a Bangladeshi-born chef who is based in the United Kingdom. He is best known for his work promoting Bangladeshi cuisine around the world, as well as for his successful chain of restaurants.",
+    "recipes": [
+      {
+        "recipe_id": "1",
+        "name": "Spicy Chicken Curry",
+        "info": "Spicy Chicken Curry is a popular dish in Bangladesh and many other parts of South Asia. It is a flavorful and spicy dish that is made with chicken and a variety of aromatic spices.",
+        "ingredients": "Chicken, Onion, Tomato, Garlic, Ginger, Salt",
+        "cooking_method": "1. Fry the onions, ginger, and garlic in a little oil until soft.\n2. Add the chopped tomatoes and cook until the mixture forms a thick paste.\n3. Add the chicken and fry for a few minutes.\n4. Add water and bring to a simmer, then cover and cook until the chicken is tender.\n5. Season with salt and pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": "2",
+        "name": "Lamb Biryani",
+        "info": "Lamb Biryani is a popular rice dish that originates from the Indian subcontinent, but is also widely enjoyed in Bangladesh. It is a flavorful and aromatic dish that combines rice, meat, and a blend of spices and herbs.",
+        "ingredients": "lamb , rice , Onion, yogurt, spices",
+        "cooking_method": "1. Fry the onions until golden brown.\n2. Add the lamb and cook until browned on all sides.\n3. Add spices and cook for a few more minutes.\n4. Mix in the rice and stir well.\n5. Add water and bring to a boil, then cover and cook on low heat until the rice and lamb are cooked.\n6. Serve with a dollop of yogurt.",
+        "rating": 4.2
+      },
+      {
+        "recipe_id": "3",
+        "name": "Prawn Masala",
+        "info": "Prawn Masala is a popular Bangladeshi seafood dish that is made with succulent prawns and a flavorful blend of spices and herbs. The dish is typically made by sautéing prawns in a mixture of onion, garlic, and ginger, along with a variety of spices like cumin, coriander, turmeric, and chili powder.",
+        "ingredients": "prawns, Onion, Tomatoes, Ginger-garlic paste",
+        "cooking_method": "1. Fry the onions, ginger, and garlic in a little oil until soft.\n2. Add the chopped tomatoes and cook until the mixture forms a thick paste.\n3. Add the prawns and fry for a few minutes.\n4. Add water and bring to a simmer, then cover and cook until the prawns are tender.\n5. Season with salt and pepper to taste.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "picture": "https://10play.com.au/ip/s3/2020/02/27/79afc4970986a275412daa041ac5f9ae-861866.jpg?image-profile=bio_full&io=portrait",
+    "name": "Rashidul Hasan",
+    "experience": 12,
+    "num_recipes": 60,
+    "likes": 7000,
+    "description": "Rashidul is a Bangladeshi chef who has worked in some of the most renowned restaurants in Bangladesh. He is known for his expertise in creating complex spice blends and his ability to balance flavors in his dishes. Rashidul's cooking style involves using traditional Bangladeshi ingredients and techniques to create innovative and exciting dishes.",
+    "recipes": [
+      {
+        "recipe_id": "1",
+        "name": "Shorshe Ilish",
+        "info": "Shorshe Ilish is a traditional Bengali dish made with Hilsa fish and a mustard-based sauce. It is a delicacy in Bangladesh and is often served during special occasions.",
+        "ingredients": "Hilsa fish, Mustard paste, Turmeric powder, Green chilies, Salt",
+        "cooking_method": "1. Clean and marinate the fish with turmeric and salt. 2. Fry the fish in mustard oil. 3. Add the mustard paste, green chilies, and turmeric powder to the pan. 4. Add water and simmer for a few minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": "2",
+        "name": "Chingri Malai Curry",
+        "info": "Chingri Malai Curry is a traditional Bengali dish made with prawns, coconut milk, and spices. It is a creamy and flavorful dish that is perfect for special occasions.",
+        "ingredients": "Prawns , Coconut milk , Onion, Ginger, Garlic",
+        "cooking_method": "1. Clean and devein the prawns. 2. Fry the onion, ginger, and garlic in oil. 3. Add the prawns to the pan and fry until they turn pink. 4. Add the coconut milk, salt, and other spices. 5. Simmer for a few minutes. 6. Serve hot with steamed rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": "3",
+        "name": "Biriyani",
+        "info": "Biriyani is a popular dish in Bangladesh and is made with long-grain rice, meat (usually chicken or beef), and spices. It is often served during special occasions and is a staple in Bengali cuisine.",
+        "ingredients": "Basmati rice, Chicken, Onion, Tomatoes, Ginger-garlic paste",
+        "cooking_method": "1. Marinate the chicken with yogurt and spices. 2. Fry the onion and ginger-garlic paste in oil. 3. Add the chicken to the pan and fry until brown. 4. Add tomatoes, salt, and other spices. 5. Cook the rice and mix it with the chicken mixture. 6. Serve hot with raita and salad.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "picture": "https://d1oh9y2nmj4y5b.cloudfront.net/uploads/photo/filename/574/7_Nahid_foodResizedForWeb.jpg",
+    "name": "Nahid Ahmed",
+    "experience": 15,
+    "num_recipes": 20,
+    "likes": 1500,
+    "description": "Chef Nahid Ahmed is a well-known Bangladeshi chef who has made significant contributions to the culinary world. He is the first Bangladeshi chef to receive a Michelin star, which he earned for his work at The Drunken Butler in London.",
+    "recipes": [
+      {
+        "recipe_id": "1",
+        "name": "Smoked Hilsa with Mustard Oil",
+        "info":"Smoked Hilsa with Mustard Oil is a popular and traditional Bangladeshi dish that is made using smoked Hilsa fish, a type of fish that is commonly found in the rivers of Bangladesh. The fish is first marinated in a mixture of turmeric, salt, and mustard oil, and then smoked over a wood fire until it is tender and infused with smoky flavor.",
+        "ingredients": "1 hilsa fish, cleaned and scaled, 2 teaspoons mustard oil, 1/2 teaspoon turmeric powder, 1/2 teaspoon red chili powder, Salt to taste,Lemon wedges for serving",
+        "cooking_method": "1. Rub the fish with turmeric powder, red chili powder, and salt.\n2. Heat a pan on high heat and place the fish on the pan. Smoke the fish for 2-3 minutes.\n3. Brush the fish with mustard oil and cook for another 2-3 minutes.\n4. Serve with lemon wedges and enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": "2",
+        "name": "Roshogolla with Saffron and Rose",
+        "info": "Roshogolla with Saffron and Rose is a unique and decadent version of the traditional Bengali dessert, Roshogolla. This dish is made by simmering small balls of chenna (cottage cheese) in a sugar syrup until they are soft and spongy.",
+        "ingredients": "1 liter milk, 2 tablespoons lemon juice, 1 cup sugar, 1/4 teaspoon saffron strands, 1/4 teaspoon rose water, Water for boiling",
+        "cooking_method": "1. Heat the milk in a pot until it comes to a boil. Turn off the heat and add the lemon juice. Stir until the milk curdles.\n2. Strain the milk and curdled mixture through a muslin cloth. Squeeze out excess water.\n3. Knead the curdled mixture into small balls.\n4. Boil water in a pot and add the sugar, saffron, and rose water. Stir until the sugar dissolves.\n5. Add the curdled balls to the pot and boil for 10-12 minutes.\n6. Remove from heat and let the syrup cool.\n7. Serve chilled and enjoy!",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Spiced Lamb Chops with Pomegranate Glaze",
+        "info": "Spiced Lamb Chops with Pomegranate Glaze is a popular Bengali dish that is perfect for special occasions or a fancy dinner party. The lamb chops are seasoned with a flavorful spice blend that includes cumin, coriander, paprika, and chili powder, and then seared to perfection. The chops are then glazed with a tangy and sweet pomegranate reduction that adds a unique depth of flavor to the dish",
+        "ingredients": "6 lamb chops, 1 tbsp cumin, 1 tbsp coriander, 1 tsp turmeric, 1 tsp chili powder, 1/2 cup pomegranate juice, 1/4 cup honey",
+        "cooking_method": "1. Mix together cumin, coriander, turmeric, and chili powder. 2. Rub the spice mixture onto the lamb chops. 3. Grill the lamb chops until they are cooked through. 4. Combine pomegranate juice and honey in a pan and simmer until thickened. 5. Brush the glaze onto the lamb chops. 6. Serve hot.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "picture": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/04/29/pastry_chrf.jpeg",
+    "name": "Mahmudul Islam",
+    "experience": 7,
+    "num_recipes": 30,
+    "likes": 2500,
+    "description": "Mahmudul is a Bangladeshi chef who specializes in creating fusion dishes that combine Bangladeshi flavors with other international cuisines. He has worked in various restaurants around Bangladesh and is known for his ability to create unique and exciting dishes that bring together different culinary traditions.",
+    "recipes": [
+      {
+        "recipe_id": "1",
+        "name": "Shorshe Ilish",
+        "info": "Shorshe Ilish is a traditional Bengali dish made with Hilsa fish and a mustard-based sauce. It is a delicacy in Bangladesh and is often served during special occasions.",
+        "ingredients": "Hilsa fish, Mustard paste, Turmeric powder, Green chilies, Salt",
+        "cooking_method": "1. Clean and marinate the fish with turmeric and salt, 2. Fry the fish in mustard oil. 3. Add the mustard paste, green chilies, and turmeric powder to the pan. 4. Add water and simmer for a few minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": "2",
+        "name": "Chingri Malai Curry",
+        "info": "Chingri Malai Curry is a traditional Bengali dish made with prawns, coconut milk, and spices. It is a creamy and flavorful dish that is perfect for special occasions.",
+        "ingredients": "Prawns , Coconut milk , Onion, Ginger, Garlic",
+        "cooking_method": "1. Clean and devein the prawns. 2. Fry the onion, ginger, and garlic in oil. 3. Add the prawns to the pan and fry until they turn pink. 4. Add the coconut milk, salt, and other spices. 5. Simmer for a few minutes. 6. Serve hot with steamed rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": "3",
+        "name": "Biriyani",
+        "info": "Biriyani is a popular dish in Bangladesh and is made with long-grain rice, meat (usually chicken or beef), and spices. It is often served during special occasions and is a staple in Bengali cuisine.",
+        "ingredients": "Basmati rice, Chicken, Onion, Tomatoes, Ginger-garlic paste",
+        "cooking_method": "1. Marinate the chicken with yogurt and spices. 2. Fry the onion and ginger-garlic paste in oil. 3. Add the chicken to the pan and fry until brown. 4. Add tomatoes, salt, and other spices. 5. Cook the rice and mix it with the chicken mixture. 6. Serve hot with raita and salad.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "picture": "https://tds-images.thedailystar.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2022/03/17/kishwar_masterchef_picture.jpg",
+    "name": "Kishwar Chowdhury",
+    "experience": 15,
+    "num_recipes": 100,
+    "likes": 8000,
+    "description": "Kishwar is a Bangladeshi chef who has been in the industry for over 15 years. She is known for her expertise in traditional Bangladeshi cuisine and her ability to create complex spice blends that are characteristic of Bangladeshi cooking. Fatima's cooking focuses on using fresh, locally-sourced ingredients and she is particularly skilled in creating dishes that are",
+    "recipes": [
+      {
+        "recipe_id": "1",
+        "name": "Shorshe Ilish",
+        "info": "Shorshe Ilish is a traditional Bengali dish made with Hilsa fish and a mustard-based sauce. It is a delicacy in Bangladesh and is often served during special occasions.",
+        "ingredients": "Hilsa fish, Mustard paste, Turmeric powder, Green chilies, Salt",
+        "cooking_method": "1. Clean and marinate the fish with turmeric and salt. 2. Fry the fish in mustard oil. 3. Add the mustard paste, green chilies, and turmeric powder to the pan. 4. Add water and simmer for a few minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": "2",
+        "name": "Chingri Malai Curry",
+        "info": "Chingri Malai Curry is a traditional Bengali dish made with prawns, coconut milk, and spices. It is a creamy and flavorful dish that is perfect for special occasions.",
+        "ingredients": "Prawns , Coconut milk , Onion, Ginger, Garlic",
+        "cooking_method": "1. Clean and devein the prawns. 2. Fry the onion, ginger, and garlic in oil. 3. Add the prawns to the pan and fry until they turn pink. 4. Add the coconut milk, salt, and other spices. 5. Simmer for a few minutes. 6. Serve hot with steamed rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": "3",
+        "name": "Biriyani",
+        "info": "Biriyani is a popular dish in Bangladesh and is made with long-grain rice, meat (usually chicken or beef), and spices. It is often served during special occasions and is a staple in Bengali cuisine.",
+        "ingredients": "Basmati rice, Chicken, Onion, Tomatoes, Ginger-garlic paste",
+        "cooking_method": "1. Marinate the chicken with yogurt and spices. 2. Fry the onion and ginger-garlic paste in oil. 3. Add the chicken to the pan and fry until brown. 4. Add tomatoes, salt, and other spices. 5. Cook the rice and mix it with the chicken mixture. 6. Serve hot with raita and salad.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
